@@ -1,0 +1,111 @@
+#header {
+  text-align:center;
+  text-decoration-line: underline;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top : 100px;
+  margin : auto;
+  width: 30vw;
+  border-bottom-style: 1px solid #CCC;
+  display: block;
+}
+#center {
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 30vw;
+  height: 30vh;
+  text-align: center;
+  position: absolute;
+  margin: auto;
+}
+#img1{
+  height: 100%;
+  top: 0px;
+  bottom :0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+#img2,#img3,#img4{
+  width: 100%;
+  margin: auto;
+}
+#menu{
+  width: 75px;
+  right : -75px;
+  position: absolute;
+}
+#button1, #button2 {
+  right : 0px;
+  left: 0px;
+}
+#button1{
+  top : -50px;
+}
+#button2{
+  bottom : -80px;
+}
+#button3, #button4 {
+  top : 0px;
+  bottom : 0px;
+}
+#button3{
+  left : -120px;
+}
+#button4{
+  right : -120px;
+}
+#button5{
+  left : -50px;
+  top : 0px;
+  width: 50px;
+}
+#button8,#button9,#button10,#button11,#negative2,#positive2{
+
+}
+#controlbox{
+  bottom : -30px;
+  right : 0px;
+  left : 0px;
+  position : absolute;
+}
+#callmenu{
+  top : 0px;
+  right : 0px;
+  margin : 10px;
+  position : absolute;
+}
+#callpics{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width : 30vw;
+  height: 30vh;
+  margin: auto;
+}
+#hat,#bow,#shirt{
+  width: 100px;
+  height: auto;
+  margin:auto;
+  position: absolute;
+  display: none;
+}
+
+
+.boxes {
+  position :absolute;
+  text-align:center;
+  width : 70px;
+  height : 20px;
+  margin : auto;
+}
+.extra{
+  text-align:center;
+  height : 20px;
+  margin : auto;
+  width: 100%;
+}
